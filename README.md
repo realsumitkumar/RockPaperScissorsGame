@@ -1,2 +1,0 @@
-# RockPaperScissorsGame
-RockPaperScissorsGame
